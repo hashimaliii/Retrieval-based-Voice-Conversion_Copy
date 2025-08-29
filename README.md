@@ -24,7 +24,7 @@ An easy-to-use Voice Conversion framework based on VITS.<br><br>
 
 ### Install rvc using pip
 ```sh
-pip install git+https://github.com/RVC-Project/Retrieval-based-Voice-Conversion
+pip install git+https://github.com/RVC-Project/Retrieval-based-Voice-Conversion_Copy
 ```
 
 ### Standard Setup
